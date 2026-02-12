@@ -1,0 +1,16 @@
+ID,StudentID,Date,Status,Period,Teacher,Notes
+1,1001,2023-09-01,PRESENT,1,Wilson,
+2,1001,2023-09-01,present,2,Johnson,
+3,1001,2023-09-01,P,3,Smith,
+4,1002,09/01/2023,Present,1,Wilson,
+5,1002,09/01/2023,ABSENT,2,Johnson,Doctor appointment
+6,1002,09-01-2023,Present,3,Smith,
+7,1003,2023/09/01,TARDY,1,Brown,Arrived 10 min late
+8,1003,2023/09/01,present,2,Wilson,
+9,1004,Sept 1 2023,Present,1,Davis,
+10,1004,Sept 1 2023,PRESENT,2,Johnson,
+11,1005,2023-09-01,absent,1,Smith,Family emergency
+12,1005,2023-09-01,ABSENT,2,Brown,Family emergency
+13,1001,2023-09-01,PRESENT,1,Wilson,
+14,1006,2023-09-01,P,1,Wilson,
+15,1006,2023-09-01,A,2,Johnson,No call no show

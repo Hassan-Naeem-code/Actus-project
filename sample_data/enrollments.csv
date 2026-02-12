@@ -1,0 +1,18 @@
+enrollment_id,student_id,school_id,school_name,grade_level,start_date,end_date,status,entry_reason,exit_reason
+E001,1001,SCH001,Lincoln High School,10,2023-09-01,,Active,New Student,
+E002,1002,SCH001,Lincoln High School,11,2022-09-01,,Active,Transfer,
+E003,1003,SCH001,Lincoln High School,10,2023-09-01,,Active,New Student,
+E004,1004,SCH001,Lincoln High School,9,2023-09-01,,Active,New Student,
+E005,1005,SCH001,Lincoln High School,12,2020-09-01,,Active,New Student,
+E006,1006,SCH001,Lincoln High School,10,2023-09-01,,Active,Transfer,
+E007,1007,SCH001,Lincoln High School,11,2022-09-01,,Active,New Student,
+E008,1008,SCH001,Lincoln High School,10,2023-09-01,,Inactive,New Student,Transferred Out
+E009,1009,SCH001,Lincoln High School,9,2023-09-01,,Active,New Student,
+E010,1010,SCH001,Lincoln High School,12,2020-09-01,,Active,New Student,
+E011,1011,SCH002,Washington Middle School,8,2022-09-01,2023-06-15,Transferred,New Student,Promoted
+E012,1011,SCH001,Lincoln High School,9,2023-09-01,,Active,Promoted,
+E013,1012,SCH001,Lincoln High School,10,2023-09-01,,Active,Transfer,
+E014,1013,SCH001,Lincoln High School,11,2022-09-01,,Active,New Student,
+E015,1014,SCH001,Lincoln High School,9,2023-09-01,,Active,New Student,
+E016,1015,SCH001,Lincoln High School,12,2020-09-01,,Active,New Student,
+E017,1002,SCH002,Washington Middle School,8,2021-09-01,2022-06-15,Transferred,Transfer,Promoted

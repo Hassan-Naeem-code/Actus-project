@@ -1,0 +1,16 @@
+student_id,first_name,last_name,email,grade,enrollment_date,phone,address,gpa,status
+1001,John,Smith,john.smith@school.edu,10,2023-09-01,555-1234,123 Main St,3.5,Active
+1002,JANE,DOE,jane.doe@school.edu,11,2023/09/01,(555) 5678,456 Oak Ave,3.8,active
+1003,John,Smith,john.smith@school.edu,10,2023-09-01,555-1234,123 Main St,3.5,Active
+1004,Bob,Johnson,,9,Sept 1 2023,5559999,789 Pine Rd,2.9,ACTIVE
+1005,alice,williams,ALICE.WILLIAMS@SCHOOL.EDU,12,2023-09-01,555.4444,321 Elm St,NULL,Active
+1006,Charlie,Brown,charlie.b@school.edu,10,01-09-2023,555 7777,654 Maple Dr,3.2,active
+1007,  Diana  ,  Prince  ,diana@school.edu,11,2023-09-01,(555)1111,987 Cedar Ln,3.9,Active
+1008,Eve,Taylor,eve.taylor@school,10,2023/9/1,5552222,,3.1,Inactive
+1009,Frank,,frank.miller@school.edu,9,2023-09-01,555-3333,147 Birch Way,2.7,active
+1010,Grace,Lee,grace.lee@school.edu,12,September 1st 2023,555-4545,258 Spruce St,3.6,ACTIVE
+1011,JANE,DOE,jane.doe@school.edu,11,2023/09/01,(555) 5678,456 Oak Ave,3.8,active
+1012,Henry,Wilson,henry.w@school.edu,10,2023-09-01,N/A,369 Walnut Ave,3.4,Active
+1013,Ivy,Chen,ivy.chen@@school.edu,11,2023-09-01,555-6666,741 Ash Blvd,3.7,active
+1014,Jack,Brown,jack.brown@school.edu,9,2023-09-01,555-7890,852 Poplar St,-1.0,Active
+1015,Katie,Adams,katie.a@school.edu,12,2023-09-01,555-0000,963 Willow Dr,4.2,Active
